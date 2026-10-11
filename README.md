@@ -20,7 +20,7 @@ Meu objetivo é evoluir de forma consistente: entender de verdade o que escrevo,
     <img src="https://img.shields.io/badge/LinkedIn-Maicon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/m4iknsz_/">
-    <img src="https://img.shields.io/badge/Instagram-@m4iknsz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-maiconE4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
