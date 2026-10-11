@@ -13,13 +13,13 @@ Meu objetivo é evoluir de forma consistente: entender de verdade o que escrevo,
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/maiconhenriquesouza">
-    <img src="https://img.shields.io/badge/GitHub-maiconhenriquesoza-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Smaiconhenriquesouza">
+    <img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="linkedin.com/in/maicon-henrique-5905242b4">
     <img src="https://img.shields.io/badge/LinkedIn-Maicon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM](https://www.instagram.com/m4iknsz_/?hl=en">
+  <a href="https://www.instagram.com/m4iknsz_/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-@SEU--INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -88,6 +88,8 @@ _Novos projetos em construção: a ideia é evoluir de aplicações simples para
 > _"Aprender todos os dias, entender o que eu construo e evoluir um passo de cada vez."_
 
 ---
+
+🤝 Aberto a oportunidades de **estágio** e **desenvolvedor júnior**, e sempre disposto a trocar conhecimento!
 
 🤝 Aberto a oportunidades de **estágio** e **desenvolvedor júnior**, e sempre disposto a trocar conhecimento!
 README.md](https://github.com/user-attachments/files/33307734/README.md)
