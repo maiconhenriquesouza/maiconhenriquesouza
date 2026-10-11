@@ -13,14 +13,14 @@ Meu objetivo é evoluir de forma consistente: entender de verdade o que escrevo,
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/Smaiconhenriquesouza">
-    <img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/maiconhenriquesouza">
+    <img src="https://img.shields.io/badge/GitHub-maiconhenriquesouza-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="linkedin.com/in/maicon-henrique-5905242b4">
+  <a href="https://www.linkedin.com/in/maicon-henrique-5905242b4/">
     <img src="https://img.shields.io/badge/LinkedIn-Maicon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/m4iknsz_/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-@SEU--INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/m4iknsz_/">
+    <img src="https://img.shields.io/badge/Instagram-@m4iknsz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@ Essas experiências me ensinaram a seguir processos com atenção, lidar com pes
 
 ## 📂 Projetos
 
--   🧑‍💻 **[Sistema de Usuários](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO)**: aplicação de terminal em Python com cadastro, listagem, pesquisa e remoção de usuários, menu de opções, validação de dados e tratamento de erros.
+-   🧑‍💻 **[Sistema de Usuários](https://github.com/maiconhenriquesouza/NOME-DO-REPOSITORIO)**: aplicação de terminal em Python com cadastro, listagem, pesquisa e remoção de usuários, menu de opções, validação de dados e tratamento de erros.
 
 _Novos projetos em construção: a ideia é evoluir de aplicações simples para APIs com banco de dados e autenticação._
 
@@ -90,6 +90,3 @@ _Novos projetos em construção: a ideia é evoluir de aplicações simples para
 ---
 
 🤝 Aberto a oportunidades de **estágio** e **desenvolvedor júnior**, e sempre disposto a trocar conhecimento!
-
-🤝 Aberto a oportunidades de **estágio** e **desenvolvedor júnior**, e sempre disposto a trocar conhecimento!
-README.md](https://github.com/user-attachments/files/33307734/README.md)
